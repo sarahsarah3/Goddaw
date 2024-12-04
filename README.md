@@ -1,4 +1,4 @@
 # Goddaw
 
 Jeg hedder Sarah
-Det er nit navn
+Det er mit navn
